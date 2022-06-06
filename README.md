@@ -1,4 +1,10 @@
-# Flappy Bird
+# Flappy Bird for SoCkit
+
+Ported from https://github.com/MiSTer-devel/FlappyBird_MiSTer
+
+Follows original readme.
+
+# Flappy Bird 
 
 Ported from original project [here](https://github.com/themaxaboy/Flappy-Bird-Verilog/).
 
